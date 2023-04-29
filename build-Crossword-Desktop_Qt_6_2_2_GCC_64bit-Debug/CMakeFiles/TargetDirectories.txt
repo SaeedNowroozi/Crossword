@@ -1,0 +1,5 @@
+/home/saeed/Qt_file/Crossword/build-Crossword-Desktop_Qt_6_2_2_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/saeed/Qt_file/Crossword/build-Crossword-Desktop_Qt_6_2_2_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/home/saeed/Qt_file/Crossword/build-Crossword-Desktop_Qt_6_2_2_GCC_64bit-Debug/CMakeFiles/Crossword.dir
+/home/saeed/Qt_file/Crossword/build-Crossword-Desktop_Qt_6_2_2_GCC_64bit-Debug/CMakeFiles/Crossword_autogen_timestamp_deps.dir
+/home/saeed/Qt_file/Crossword/build-Crossword-Desktop_Qt_6_2_2_GCC_64bit-Debug/CMakeFiles/Crossword_autogen.dir
